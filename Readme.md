@@ -52,11 +52,11 @@ Here you will find a list of CVEs published by our team:
 
 ### Reflected cross-site scripting on ServiceNow
 - [CVE-2023-1298](https://www.cve.org/CVERecord?id=CVE-2023-1298)
-- [Proof of Concep (PoC)](https://github.com/CapgeminiCisRedTeam/Disclosure/blob/main/CVE%20PoC/CVE-2023-1298%20%7C%20ServiceNow%20%E2%80%93%20Reflected%20Cross-site%20Scripting%20(XSS).md)
+- [Proof of Concept (PoC)](https://github.com/CapgeminiCisRedTeam/Disclosure/blob/main/CVE%20PoC/CVE-2023-1298%20%7C%20ServiceNow%20%E2%80%93%20Reflected%20Cross-site%20Scripting%20(XSS).md)
 
 ### Reflected cross-site scripting on ServiceNow
 - [CVE-2023-1209](https://www.cve.org/CVERecord?id=CVE-2023-1209)
-- [Proof of Concep (PoC)](https://github.com/CapgeminiCisRedTeam/Disclosure/blob/main/CVE%20PoC/CVE-2023-1209%20%7C%20ServiceNow%20-%20Reflected%20Cross-site%20Scripting%20(XSS).md)
+- [Proof of Concept (PoC)](https://github.com/CapgeminiCisRedTeam/Disclosure/blob/main/CVE%20PoC/CVE-2023-1209%20%7C%20ServiceNow%20-%20Reflected%20Cross-site%20Scripting%20(XSS).md)
 
 
 
