@@ -56,7 +56,7 @@ Here you will find a list of CVEs published by our team:
 
 ## 📞 Contact
 
-To contact the **Capgemini Italy Red Team**, you can email us at [todo](todo).
+To contact the **Capgemini Italy Red Team**, you can email us at [cisredteam.it@capgemini.com](mailto:cisredteam.it@capgemini.com).
 
 Thank you for your interest in our cybersecurity work! We hope this repository can be valuable to the community. 🚀
 
