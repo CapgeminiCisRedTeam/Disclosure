@@ -1,7 +1,7 @@
 # 🛡️ Capgemini Italy Red Team CVE Repository 🛡️
 
-Welcome to the repository of Vulnerability Notes (CVEs) published by the **Capgemini Italy Red Team**! In this repository, we share information about vulnerabilities discovered and analyzed by our cybersecurity team.
-We have over 50 vulnerabilities currently under responsible disclosure programs, all waiting to be disclosed. Stay tuned for more!
+Welcome to the repository of Vulnerability Notes (CVEs) published by the **Capgemini Italy Red Team**! In this repository, we share information about vulnerabilities discovered and analyzed by our cybersecurity team.  
+We have **more than 50 vulnerabilities** currently under responsible disclosure programs, all waiting to be disclosed. Stay tuned for more!
 
 
 ## 📋 List of CVEs
